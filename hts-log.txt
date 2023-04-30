@@ -1,0 +1,11 @@
+HTTrack3.49-4+htsjava launched on Sun, 30 Apr 2023 14:39:30 at https://moyu.games/games/click-speed-test/
+(winhttrack https://moyu.games/games/click-speed-test/ -W -O "/data/data/com.termux/files/home/websites/cps" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-4 mirror complete in 4 seconds : 3 links scanned, 2 files written (294402 bytes overall) [93540 bytes received at 23385 bytes/sec], 294603 bytes transferred using HTTP compression in 3 files, ratio 31%, 1.5 requests per connection
+(No errors, 0 warnings, 0 messages)
